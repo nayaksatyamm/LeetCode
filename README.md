@@ -1,2 +1,19 @@
-# LeetCode
-My personal journey of solving LeetCode DSA problems, focusing on clean code, optimal solutions, and strong problem-solving fundamentals.
+This repository contains my Data Structures and Algorithms (DSA) practice solutions from LeetCode, implemented primarily using C.  
+The goal of this repository is to strengthen core DSA concepts, improve problem-solving skills, and prepare for coding interviews
+
+🚀 About This Repository
+
+📌 Problems are solved **using C language**
+📈 Focus on **logic building, time & space optimization**
+🧠 Covers fundamental to advanced **DSA topics**
+🔄 Regularly updated as I solve more problems
+🎯 Built for **interview preparation & consistency**
+
+🛠️ Languages Known
+
+Although I am comfortable with:
+- C
+- C++
+- Python
+
+👉 All solutions in this repository are intentionally written in **C** to strengthen low-level understanding and memory management concepts.
