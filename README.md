@@ -17,3 +17,19 @@ Although I am comfortable with:
 - Python
 
 👉 All solutions in this repository are intentionally written in **C** to strengthen low-level understanding and memory management concepts.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nayaksatyamm/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Hash Table
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nayaksatyamm/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nayaksatyamm/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+<!---LeetCode Topics End-->
