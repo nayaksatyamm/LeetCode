@@ -24,11 +24,13 @@ Although I am comfortable with:
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nayaksatyamm/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/nayaksatyamm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nayaksatyamm/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nayaksatyamm/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/nayaksatyamm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
@@ -41,4 +43,8 @@ Although I am comfortable with:
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nayaksatyamm/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/nayaksatyamm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
