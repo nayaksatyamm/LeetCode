@@ -23,6 +23,7 @@ Although I am comfortable with:
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/nayaksatyamm/LeetCode/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/nayaksatyamm/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/nayaksatyamm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nayaksatyamm/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -47,4 +48,12 @@ Although I am comfortable with:
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nayaksatyamm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/nayaksatyamm/LeetCode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/nayaksatyamm/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
