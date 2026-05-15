@@ -26,6 +26,7 @@ Although I am comfortable with:
 | [0048-rotate-image](https://github.com/nayaksatyamm/LeetCode/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/nayaksatyamm/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/nayaksatyamm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nayaksatyamm/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nayaksatyamm/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -56,4 +57,8 @@ Although I am comfortable with:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nayaksatyamm/LeetCode/tree/master/0048-rotate-image) |
+## Binary Search
+|  |
+| ------- |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nayaksatyamm/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 <!---LeetCode Topics End-->
