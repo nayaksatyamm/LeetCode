@@ -28,6 +28,7 @@ Although I am comfortable with:
 | [0560-subarray-sum-equals-k](https://github.com/nayaksatyamm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nayaksatyamm/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nayaksatyamm/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2574-left-and-right-sum-differences](https://github.com/nayaksatyamm/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ Although I am comfortable with:
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nayaksatyamm/LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [2574-left-and-right-sum-differences](https://github.com/nayaksatyamm/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Math
 |  |
 | ------- |
