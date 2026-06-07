@@ -42,6 +42,7 @@ Although I am comfortable with:
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/nayaksatyamm/LeetCode/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nayaksatyamm/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
@@ -72,4 +73,8 @@ Although I am comfortable with:
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/nayaksatyamm/LeetCode/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/nayaksatyamm/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
