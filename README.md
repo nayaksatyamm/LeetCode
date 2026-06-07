@@ -42,6 +42,7 @@ Although I am comfortable with:
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/nayaksatyamm/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nayaksatyamm/LeetCode/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nayaksatyamm/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -76,5 +77,6 @@ Although I am comfortable with:
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/nayaksatyamm/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nayaksatyamm/LeetCode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
