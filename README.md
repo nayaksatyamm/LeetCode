@@ -30,6 +30,7 @@ Although I am comfortable with:
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nayaksatyamm/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nayaksatyamm/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2574-left-and-right-sum-differences](https://github.com/nayaksatyamm/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [3689-maximum-total-subarray-value-i](https://github.com/nayaksatyamm/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,8 @@ Although I am comfortable with:
 | ------- |
 | [0125-valid-palindrome](https://github.com/nayaksatyamm/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/nayaksatyamm/LeetCode/tree/master/0344-reverse-string) |
+## Greedy
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/nayaksatyamm/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
