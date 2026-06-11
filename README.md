@@ -59,6 +59,7 @@ Although I am comfortable with:
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/nayaksatyamm/LeetCode/tree/master/0048-rotate-image) |
+| [0231-power-of-two](https://github.com/nayaksatyamm/LeetCode/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
@@ -84,4 +85,12 @@ Although I am comfortable with:
 |  |
 | ------- |
 | [3689-maximum-total-subarray-value-i](https://github.com/nayaksatyamm/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nayaksatyamm/LeetCode/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/nayaksatyamm/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
